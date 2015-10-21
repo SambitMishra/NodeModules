@@ -9,6 +9,8 @@
     "grunt-contrib-requirejs": "^0.4.4",
     "grunt-contrib-uglify": "^0.9.2",
     "grunt-lib-phantomjs": "^0.7.1",
-    "grunt-template-jasmine-requirejs": "^0.2.3"
+    "grunt-lodash": "^0.5.0",
+    "grunt-template-jasmine-requirejs": "^0.2.3",
+    "lodash-cli": "^3.10.1"
   }
 }
